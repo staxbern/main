@@ -1,2 +1,1 @@
-# main
 ### Hi there 👋, Hash
