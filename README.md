@@ -7,27 +7,7 @@
   
 
 - 🔭 I’m currently working on [TrustService Web-site](https://staxbern.github.io/TrustVpn/)  
-  
-
 <br/>  
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
 <br/>  
 
 
