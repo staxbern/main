@@ -20,25 +20,10 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/123123123" target="_blank" style="display: inline-block;">
+            <a href="http://t.me/send?start=IVIvaugopmo9" target="_blank" style="display: inline-block;">
                 <img
-                    src="logo=CryptoBot" 
-                    align="center"
-                />
-            </a>
-                <a href="https://liberapay.com/123123123" target="_blank" style="display: inline-block;">
-                    <img
-                        src="https://img.shields.io/badge/Donate-Liberapay-f6c915.svg?style=flat-square&logo=liberapay" 
-                        align="center"
-                    />
-                </a>
-            <a href="https://ko-fi.com/123123" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=CryptoBot" 
                     align="center"
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
