@@ -1,7 +1,6 @@
-<center>
-###Hi there 👋, Hash
-#### "TrustServise" developer
-!["TrustServise" developer](https://i.imgur.com/DJDZXcV.png)
+#Hi there 👋, Hash
+### "TrustServise" developer
+!["TrustService" developer](https://i.imgur.com/DJDZXcV.png)
 
 
 
