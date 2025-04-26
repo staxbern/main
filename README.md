@@ -13,32 +13,16 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=staxbern&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=staxbern&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
 
 <div align="center">
             <a href="https://paypal.me/123123123" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    src="https://github-production-user-asset-6210df.s3.amazonaws.com/10694593/347407434-c5c5acc3-f434-4a8d-a834-6d94a7ffb45a.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250426%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250426T155301Z&X-Amz-Expires=300&X-Amz-Signature=727f3e72269287a73bf71de23c785551e008f0bec3bfb73fafb0ae15a4ce6673&X-Amz-SignedHeaders=host?style=flat-square&logo=telegram" 
                     align="center"
                 />
             </a>
