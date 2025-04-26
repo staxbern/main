@@ -22,7 +22,7 @@
 <div align="center">
             <a href="http://t.me/send?start=IVIvaugopmo9" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=CryptoBot" 
+                    src="https://img.shields.io/badge/CryptoBot-donate-yellow" 
                     align="center"
                 />
             </a></div>
