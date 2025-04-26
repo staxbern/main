@@ -1,5 +1,5 @@
-# <center> Hi there 👋, Hash
-### "TrustServise" developer
+# Hi there 👋, Hash
+## I'm "TrustService" developer
 !["TrustService" developer](https://i.imgur.com/DJDZXcV.png)
 
 
@@ -11,4 +11,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=staxbern&show_icons=true)  
 
-</center>
